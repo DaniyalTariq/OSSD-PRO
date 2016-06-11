@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1453287269 source:c:\users\daniyal\documents\project foop\source.cpp
+
+1453287531 source:c:\users\daniyal\documents\project foop\main.cpp
+	<iostream>
+	<stdlib.h>
+	"library.h"
+	<algorithm>
+	<windows.h>
+
+1453287227 c:\users\daniyal\documents\project foop\library.h
+	<iostream>
+	<algorithm>
+
+1453287531 source:c:\users\daniyal\documents\14024020139\daniyal tariq\main.cpp
+	<iostream>
+	<stdlib.h>
+	"library.h"
+	<algorithm>
+	<windows.h>
+
+1453287227 c:\users\daniyal\documents\14024020139\daniyal tariq\library.h
+	<iostream>
+	<algorithm>
+
+1453287531 source:c:\users\daniyal\desktop\14024020139\14024020139\daniyal tariq\main.cpp
+	<iostream>
+	<stdlib.h>
+	"library.h"
+	<algorithm>
+	<windows.h>
+
+1453287227 c:\users\daniyal\desktop\14024020139\14024020139\daniyal tariq\library.h
+	<iostream>
+	<algorithm>
+
+1453287531 source:c:\users\daniyal\desktop\14024020139\14024020139\14024020139\daniyal tariq\main.cpp
+	<iostream>
+	<stdlib.h>
+	"library.h"
+	<algorithm>
+	<windows.h>
+
+1453287227 c:\users\daniyal\desktop\14024020139\14024020139\14024020139\daniyal tariq\library.h
+	<iostream>
+	<algorithm>
+
+1453287531 source:g:\lenovo\data drive\1-30-2016\desk\14024020139\14024020139\14024020139\daniyal tariq\main.cpp
+	<iostream>
+	<stdlib.h>
+	"library.h"
+	<algorithm>
+	<windows.h>
+
+1453287227 g:\lenovo\data drive\1-30-2016\desk\14024020139\14024020139\14024020139\daniyal tariq\library.h
+	<iostream>
+	<algorithm>
+
